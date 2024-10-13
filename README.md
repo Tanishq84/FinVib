@@ -76,10 +76,6 @@ Finvib addresses these challenges by:
 
 ---
 
-### **Contributing**
-We welcome contributions! Please check our **CONTRIBUTING.md** for guidelines on how to contribute to Finvib.
-
----
 
 ### **License**
 This project is licensed under the MIT License. See the **LICENSE** file for details.
